@@ -4,6 +4,11 @@ Practice cases for forward deployed engineer (FDE) interview case rounds. Each c
 
 It works offline. You can run it as an agent skill, paste it into any LLM, or practise with a friend.
 
+After a case, two next steps:
+
+- **Find a live loop.** Every open FDE role we can verify against the employer's own job board, with pay ranges: [a10x.dev/jobs](https://a10x.dev/jobs?p=ghkit)
+- **Try an unseen case with a graded review.** Same format, a case you have not read: [a10x.dev/arena](https://a10x.dev/arena?p=ghkit)
+
 ## Who it is for
 
 Engineers preparing for FDE, forward deployed AI engineer, solutions engineer, or applied AI engineer interviews, where a case round asks you to scope and design a deployment for a customer. It is also usable by interviewers who want a structured case to run with candidates.
@@ -82,4 +87,4 @@ New cases are welcome, especially from people who have run real deployments. See
 
 Code, the skill file and everything else (SKILL.md, bin/, and the rest of the repository) are under the [MIT License](LICENSE). Case content (everything under `cases/`, plus RUBRIC.md and DISCOVERY.md) is under [CC BY 4.0](LICENSE-content).
 
-This kit is maintained by A10X, which also runs graded rounds on unseen cases at a10x.dev.
+This kit is maintained by [A10X](https://a10x.dev/?p=ghkit), which also runs graded rounds on unseen cases at [a10x.dev/arena](https://a10x.dev/arena?p=ghkit).
